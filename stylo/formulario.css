@@ -1,11 +1,11 @@
 
 *{
 padding: 0;
-box-sizing: border-box;
-}
+box-sizing: border-box;}
+.h1{
+color: rgb(7, 200, 248);}
 .form-register {
 width: 500px;
-
 background: #13227a;
 padding: 30px;
 margin:auto;
