@@ -1,14 +1,20 @@
 *{margin: 0;
-    padding: 0;}
-   .fondo{ 
-   background-repeat: no-repeat;
-   background-size: 100% 100%;}
-   .h1{
-   color: rgb(7, 200, 248);}
-   img{
-   width: 760px;
-   height: 450px;}
-   .ul{
-   color: aqua;}
-   .a{
-   color: azure;}
+padding: 0;}
+.fondo{ 
+background-repeat: no-repeat;
+background-size: 100% 100%;}
+.h1{
+font-size: 50px;
+text-align: center;
+text-shadow: 3px 2px #2faef7a2;
+color: rgb(7, 200, 248);}
+img{
+margin-left: 500px;
+width: 760px;
+height: 450px;}
+.ul{
+text-align: center;
+color: aqua;}
+.a{
+text-align: center;
+color: azure;}
