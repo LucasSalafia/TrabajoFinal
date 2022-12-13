@@ -1,66 +1,82 @@
-*{margin: 0;
-padding: 0;
-box-sizing: border-box;}
-.fondo{ 
-background-repeat: no-repeat;
-background-size: 100% 100%;}
-.logo{
-float:right;
-height: 200px;
-width: 220px;
-border-radius: 180px; }
-.a{font-family:'rockwell';
-font-size: 130px;
-font-weight: 500;
-text-align: center;
-text-shadow: 6px 3px #2faef798;
-color: rgb(7, 200, 248);}
-img{
-margin-left: 500px;
-width: 760px;
-height: 450px;}
-.ul{
-text-align: center;
-color: aqua;}
-.b{
-text-align: center;
-color: azure;}
-.navegador{
-display: flex;
-list-style: none;
-margin: 0;
-padding: 0;}
-.navegador li{
-padding: 0 18px;}
-.navegador a{
-text-decoration: none;
-font-size: 18px;
-font-weight: 500;
-line-height: 200px;
-text-transform: uppercase;}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.fondo {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.logo {
+  float: right;
+  height: 200px;
+  width: 220px;
+  border-radius: 180px;
+}
+.a {
+  font-family: "rockwell";
+  font-size: 130px;
+  font-weight: 500;
+  text-align: center;
+  text-shadow: 6px 3px #2faef798;
+  color: rgb(7, 200, 248);
+}
+a:visited {
+  color: rgb(26, 130, 248);
+}
+img {
+  margin-left: 500px;
+  width: 760px;
+  height: 450px;
+}
+.ul {
+  text-align: center;
+  color: aqua;
+}
+.b {
+  text-align: center;
+  color: azure;
+}
+.navegador {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navegador li {
+  padding: 0 18px;
+}
+.navegador a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 200px;
+  text-transform: uppercase;
+}
 .form-register {
-width: 500px;
-background: #13227a;
-padding: 30px;
-margin:auto;
-margin-top: 100px;
-border-radius: 4px;
-color:#f6f8f7;
-border: 2px dashed rgb(10, 17, 24);}
+  width: 500px;
+  background: #13227a;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  color: #f6f8f7;
+  border: 2px dashed rgb(10, 17, 24);
+}
 .controls {
-width: 100%;
-padding: 20px;
-border-radius: 4px;
-margin-bottom: 16px;
-border: 1px solid #1f53c5;
-font-size: 18px;}
-.form-register .botons{
-width: 100%;
-background: #1f53c5;
-border: none;
-padding: 20px;
-color: white;
-margin: 50px 0;
-font-size: 17px;}
-
-
+  width: 100%;
+  padding: 20px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #1f53c5;
+  font-size: 18px;
+}
+.form-register .botons {
+  width: 100%;
+  background: #1f53c5;
+  border: none;
+  padding: 20px;
+  color: white;
+  margin: 50px 0;
+  font-size: 17px;
+}
