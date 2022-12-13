@@ -1,4 +1,4 @@
-const edad = prompt("ingrese edad");
+const edad = prompt("ingrese su edad");
 if (edad < 18) {
   alert("Sos menor de edad, entras bajo tu responsabilidad.");
 } else {
