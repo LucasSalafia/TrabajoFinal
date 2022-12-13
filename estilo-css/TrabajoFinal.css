@@ -16,8 +16,7 @@
   margin-top: 100px;
   text-align: center;
 }
-.carousel {
-}
+
 .form-register {
   width: 300px;
   background: #0e173a;
@@ -86,15 +85,15 @@
   text-decoration: none;
 }
 .mail {
-  color: #84878a;
+  color: #6d859c;
   text-decoration: none;
 }
 .a2 {
-  color: #758585;
+  color: #99a1a1;
   font-size: 25px;
 }
 .redes {
-  color: #d0d4d4;
+  color: #e2e6e6;
   text-decoration: none;
 }
 .footer {

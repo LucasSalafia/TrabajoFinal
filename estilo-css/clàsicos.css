@@ -21,7 +21,7 @@
   color: rgb(7, 200, 248);
 }
 a:visited {
-    color: rgb(26, 130, 248);
+  color: rgb(26, 130, 248);
 }
 img {
   margin-left: 500px;
@@ -47,7 +47,7 @@ img {
 }
 .navegador a {
   text-decoration: none;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 500;
   line-height: 200px;
   text-transform: uppercase;
