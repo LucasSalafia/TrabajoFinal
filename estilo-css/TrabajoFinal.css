@@ -3,6 +3,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+.fondo {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.logo {
+  top: 1px;
+  height: 200px;
+  width: 220px;
+  border-radius: 180px;
+  position: absolute;
+  right: 0;
+}
+
 .a {
   font-family: "rockwell";
   font-size: 130px;
@@ -11,36 +24,13 @@
   text-shadow: 6px 3px #2faef798;
   color: rgb(7, 200, 248);
 }
-.p {
-  color: rgb(180, 180, 180);
-  margin-top: 100px;
-  text-align: center;
-}
 
-.form-register {
-  width: 300px;
-  background: #0e173a;
-  padding: 30px;
-  border-radius: 5px;
-  color: #c3c9c7;
-  border: 3px dashed rgb(10, 17, 24);
-}
-.controls {
-  width: 100%;
-  padding: 10px;
-  border-radius: 5px;
-  margin-bottom: 16px;
-  border: 1px solid #1f53c5;
-  font-size: 15px;
-}
-.form-register .botons {
-  width: 100%;
-  background: #1f53c5;
-  border: none;
-  padding: 12px;
-  color: white;
-  margin: 16px 0;
-  font-size: 15px;
+.subtitulo {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: 300;
+  color: #b9c7e7;
+  text-align: center;
 }
 .navegador {
   display: flex;
@@ -59,24 +49,13 @@
   line-height: 200px;
   text-transform: uppercase;
 }
-.subtitulo {
-  margin-top: 30px;
-  font-size: 20px;
-  font-weight: 300;
-  color: #b9c7e7;
+
+.p {
+  color: rgb(180, 180, 180);
+  margin-top: 100px;
   text-align: center;
 }
-.logo {
-  height: 200px;
-  width: 220px;
-  border-radius: 180px;
-  position: absolute;
-  right: 0;
-}
-.fondo {
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-}
+
 .wp {
   color: #6d859c;
 }
